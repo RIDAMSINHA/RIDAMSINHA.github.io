@@ -24,7 +24,7 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <a href="#" className="text-white text-2xl font-bold">
-            Ridam Aditya Sinha
+            Portfolio
           </a>
           
           <button
